@@ -1,10 +1,11 @@
 .home__container{
 	width: 90%;
-	margin: auto;
-	padding-top: 50px;
+	margin: 0 auto;
+	padding-top: 5rem;
 	display: flex;
 
-	justify-content: space-around;
-	align-items: baseline;
+	justify-content: center;
+	gap: 2rem;
+	align-items: center;
 	flex-wrap: wrap;
 }
